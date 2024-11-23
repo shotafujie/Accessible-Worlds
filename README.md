@@ -1,2 +1,2 @@
-# Accessible-Worlds
-アクセシビリティを考えるPyxelを使ったレトロなゲームです
+# TreasureHunting
+Pyxelを使ったレトロな宝探しゲームです
